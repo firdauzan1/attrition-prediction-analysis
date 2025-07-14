@@ -46,7 +46,6 @@ The folder and file structure is organized to be modular and easy to understand,
 │   ├── y_train_resampled.npy
 │   ├── X_test_processed.npy
 │   └── y_test.npy
-├── 📄 .gitignore
 ├── 📄 HR_Employee_Attrition.xlsx
 ├── 📄 app.py                     # Main Streamlit application script
 ├── 📄 attrition_model.joblib     # Trained model
