@@ -96,7 +96,7 @@ To run this application on your local machine, follow these steps:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/firdauzan1/attrition-prediction-analysis.git](https://github.com/firdauzan1/attrition-prediction-analysis.git)
+    git clone https://github.com/firdauzan1/attrition-prediction-analysis.git
     cd attrition-prediction-analysis
     ```
 
